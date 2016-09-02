@@ -42,6 +42,5 @@ while True:
         show_list()
         continue
     add_to_list(new_item)
-
 show_list()
 
