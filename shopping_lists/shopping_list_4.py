@@ -9,7 +9,8 @@ def remove_item(idx):
 
 def show_help():
     print("\nSeparate each item with a comma.")
-    print("Type DONE to quit, SHOW to see the current list, and HELP to get this message.")
+    print("Type DONE to quit, SHOW to see the current list, "
+          " REMOVE to delete an item, and HELP to get this message.")
 
 
 def show_list():
