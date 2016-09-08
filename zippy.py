@@ -11,12 +11,21 @@
 
 
 def combo(thing1, thing2):
-    temp_tuple = ()
+    temp_list = []
 
-    for step in enumerate(thing1):
-        print(step)
-        temp_tuple = (thing1[step], thing2[step])
+    for index, item1 in enumerate(thing1):
+        temp_tuple = (item1, thing2[index])
+        temp_list.append(temp_tuple)
 
-    return temp_tuple
+    return temp_list
 
 print(combo([1, 2, 3], 'abc'))
+
+"""
+def combo(iterable_1, iterable_2):
+   list_of_tuples = []
+   for index, item2 in enumerate(iterable_2):
+     list_of_tuples.append( (iterable_1[index], item2) )
+
+   return list_of_tuples
+"""
