@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="702bb33c-bdff-4e00-9d88-05a9099d14a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/choices.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/random_choice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dungeon_game.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zippy.py" afterPath="$PROJECT_DIR$/zippy.py" />
     </list>
     <ignored path="Basic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,61 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tuples.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tuples.py">
+      <file leaf-file-name="dungeon_game.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dungeon_game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teachers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teachers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="enumerate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/enumerate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="random_choice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/random_choice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="choices.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/choices.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zippy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zippy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="396">
+              <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -118,6 +66,7 @@
         <option value="$PROJECT_DIR$/zippy.py" />
         <option value="$PROJECT_DIR$/random_choice.py" />
         <option value="$PROJECT_DIR$/choices.py" />
+        <option value="$PROJECT_DIR$/dungeon_game.py" />
       </list>
     </option>
   </component>
@@ -185,24 +134,7 @@
       <recent name="$PROJECT_DIR$/shopping_lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zippy">
-    <configuration default="false" name="shopping_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Basic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shopping_lists/shopping_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.dungeon_game">
     <configuration default="false" name="string" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,6 +199,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Basic" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zippy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dungeon_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Basic" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dungeon_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -406,19 +355,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.shopping_list" />
-      <item index="1" class="java.lang.String" itemvalue="Python.string" />
-      <item index="2" class="java.lang.String" itemvalue="Python.teachers" />
-      <item index="3" class="java.lang.String" itemvalue="Python.stringcases" />
-      <item index="4" class="java.lang.String" itemvalue="Python.zippy" />
+      <item index="0" class="java.lang.String" itemvalue="Python.string" />
+      <item index="1" class="java.lang.String" itemvalue="Python.teachers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.stringcases" />
+      <item index="3" class="java.lang.String" itemvalue="Python.zippy" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dungeon_game" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.zippy" />
-        <item index="1" class="java.lang.String" itemvalue="Python.stringcases" />
-        <item index="2" class="java.lang.String" itemvalue="Python.teachers" />
-        <item index="3" class="java.lang.String" itemvalue="Python.string" />
-        <item index="4" class="java.lang.String" itemvalue="Python.shopping_list" />
+        <item index="0" class="java.lang.String" itemvalue="Python.dungeon_game" />
+        <item index="1" class="java.lang.String" itemvalue="Python.zippy" />
+        <item index="2" class="java.lang.String" itemvalue="Python.stringcases" />
+        <item index="3" class="java.lang.String" itemvalue="Python.teachers" />
+        <item index="4" class="java.lang.String" itemvalue="Python.string" />
       </list>
     </recent_temporary>
   </component>
@@ -477,13 +426,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shopping_lists/shopping_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -821,14 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zippy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/random_choice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -841,6 +775,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zippy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dungeon_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
           <folding />
         </state>
       </provider>
